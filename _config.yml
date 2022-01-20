@@ -116,11 +116,11 @@ author:
       url: "https://twitter.com/p_schuetze"
       
     - label: "Researchgate"
-      icon: ""fab fa-researchgate""
+      icon: ""fab fa-fw fa-researchgate""
       url: "https://www.researchgate.net/profile/Paul-Schuetze"
       
     - label: "Academia"
-      icon: "fas fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://uni-osnabrueck.academia.edu/PaulSchuetze"
    
 
