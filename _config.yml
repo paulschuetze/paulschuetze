@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "philosophy .. affect theory .. /n
-                      the ecological catastrophe .. digital capitalism .. /n 
+  bio              : "philosophy .. affect theory .. \n
+                      the ecological catastrophe .. digital capitalism .. \n 
                       (he/him)"
   location         : #
   email            : paul.schuetze@uni-osnabrueck.de
