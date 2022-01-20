@@ -102,11 +102,13 @@ analytics:
 # Site Author
 author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "philosophy | affect theory | the ecological catastrophe | digital capitalism (he/him)"
+  bio              : "philosophy .. affect theory .. /n
+                      the ecological catastrophe .. digital capitalism .. /n 
+                      (he/him)"
   location         : #
   email            : paul.schuetze@uni-osnabrueck.de
   links:
-    - label: "Email"
+    - label: "paul.schuetze@uni-osnabrueck.de"
       icon: "fas fa-fw fa-envelope-square"
     - label: "Website"
       icon: "fas fa-fw fa-link"
